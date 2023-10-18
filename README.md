@@ -25,7 +25,7 @@ Run the main script using: `python main_Benayoun.py`
 
 The program will ask you how many game you want to generate and will also prompt you to provide a file path for each match.  
 When asked, provide the path to the JSON file containing the input data.  
-Predictions are printed and saved as separate JSON files, named recreated_match_1.json, recreated_match_2.json, etc.
+Predictions are printed and saved as separate JSON files, named *generated_match_1.json*, *generated_match_2.json*, etc.
 
 ## Data Structure
 
